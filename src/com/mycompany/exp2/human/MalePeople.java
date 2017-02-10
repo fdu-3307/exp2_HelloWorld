@@ -6,7 +6,7 @@ package com.mycompany.exp2.human;
 import com.mycompany.exp2.mammal.MaleMammal;
 
 /**
- * @author John
+ * @author ilker
  *
  */
 public class MalePeople extends People implements MaleMammal {
