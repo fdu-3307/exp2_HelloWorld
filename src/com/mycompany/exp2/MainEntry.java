@@ -44,6 +44,8 @@ public class MainEntry {
 		mammal2.canBreastfeed();
 		Mammal mammal3 = new FemalePeople("Barbara", 95f, true);
 		mammal3.canBreastfeed();
+		
+		Human h3 = new People("zztop", new Float(12));
 
 	}
 
