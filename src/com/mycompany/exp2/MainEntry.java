@@ -23,7 +23,7 @@ public class MainEntry {
 		
 		// Anthony's block - he is interested in Human
 		// GOOD block - using polymorphism
-		Human human1 = new People("Alfred", 95f);
+		Human human1 = new People("Alfred Hitchok", 95f);
 		human1.talk();
 		human1.walk();
 		Human human2 = new MalePeople("Bobby", 96f, true);
